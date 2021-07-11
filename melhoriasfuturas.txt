@@ -1,0 +1,3 @@
+- implementar GameOver ao tocar as bordas do canvas
+- Reduzir o box (quadradinho) para "aumentar" o plano de jogo
+- Implementar a "cabeça" da cobrinha com cor diferente
