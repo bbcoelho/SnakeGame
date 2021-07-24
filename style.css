@@ -1,10 +1,16 @@
 body{
-    height: 95vh;
-    width: 95vw;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color:white;
-    color: rgb(63, 189, 63);
+    background-image: url('img/nokiaphone2.jpg');
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+.canvas{
+    margin-top: 22px;
+    border-width: 2px;
+    border-color: "rgb(111, 96, 0)";
+    border-style: dotted;
 }
